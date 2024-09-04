@@ -1,0 +1,6 @@
+@import url('https://fonts.cdnfonts.com/css/toxigenesis');
+@import url('https://fonts.cdnfonts.com/css/nunito-2');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
